@@ -86,5 +86,10 @@ namespace QuanLyKho
                 txtPass.UseSystemPasswordChar = true;
             }
         }
+
+        private void frmDangNhap_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
